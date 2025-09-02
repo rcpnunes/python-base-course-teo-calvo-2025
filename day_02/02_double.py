@@ -1,0 +1,6 @@
+number = input("Enter a number to find its double: ")
+number = int(number)
+
+double = number * 2
+
+print("The double of", number, "equals", double)
